@@ -5,4 +5,4 @@ recuires c++ to be installed on system.
 
 Usage:
 
-  ./program.sh <text file>
+  ./program.sh 'text file name'
